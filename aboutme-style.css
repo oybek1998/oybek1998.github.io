@@ -1,0 +1,41 @@
+body {
+    background-color: lightgrey;
+}
+h1, h2 {
+    color: blue;
+
+}
+p b {
+    color: green;
+    font-family: Tahoma;
+}
+
+ul li {
+    font-weight: bolder;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: dimgrey;
+    font-size:120%;
+}
+
+div {
+    margin-left:75px;
+}
+
+img {
+    box-shadow:  0px 0px 5px 5px white;
+    margin:10px;
+    display:inline;
+    border-radius:10px;
+}
+
+.oybek i{
+    font-family: Verdana;
+}
